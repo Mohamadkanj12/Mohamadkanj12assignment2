@@ -1,4 +1,0 @@
-plotly---5.9.0
-pandas---1.4.4
-numpy---1.23.3
-streamlit---1.13.0
